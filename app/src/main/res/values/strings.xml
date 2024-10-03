@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">tarjetapresentacion</string>
+    <string name="name">Natalia Alarcón</string>
+    <string name="description">Android Developer Extraordinaire</string>
+    <string name="phonenumber">0972855183</string>
+    <string name="githublink">github.com/alarconat</string>
+    <string name="emailadress">alarconnati.ad06@gmail.com</string>
+</resources>
